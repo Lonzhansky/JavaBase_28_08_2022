@@ -17,5 +17,8 @@ public class Main {
         System.out.println((double) a / (double) b);
 
 
+        System.out.println(a + b + 20);
+
+
     }
 }
