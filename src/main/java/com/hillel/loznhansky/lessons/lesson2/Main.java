@@ -111,8 +111,6 @@ public class Main {
 
         System.out.println("51° 30' 19.9944'' N");
         System.out.println("" + a1 + c1 + " " + a2 + c2 + " " + x1 + c2 + c2 + " " + c3);
-
-
     }
 }
 
